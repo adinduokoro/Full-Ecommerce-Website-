@@ -71,22 +71,22 @@ export const sliderData = [
   {
     id: "0",
     img: shoe1,
-    text: "Summers SALE up to 50% OFF what are you wating for",
+    text: "SALES up to 50% OFF when you purchase one shoe",
   },
   {
     id: "1",
     img: shoe2,
-    text: "AUTUMN is coming, choose what suits you THE BEST",
+    text: "ALL name brand shoes here, SHOP NOW",
   },
   {
     id: "2",
     img: shoe3,
-    text: "Make your feet as comfortable as walking on the beach",
+    text: "New Arrivals just in, take a look at our featured section",
   },
   {
     id: "3",
     img: shoe4,
-    text: "Choose between basketball and fashion or choose both",
+    text: "From Fashion to fitness, we have it all!",
   },
 ];
 
